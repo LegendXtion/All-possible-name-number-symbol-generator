@@ -1,0 +1,1 @@
+# All-possible-name-number-symbol-generator
